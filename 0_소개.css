@@ -1,0 +1,55 @@
+@font-face {
+    font-family: '건축조각체';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2303@1.0/ARCHISCULPTURE_v200.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: '레페리';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/LeferiPoint-WhiteObliqueA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+
+body{
+    background:black}
+
+a:link{
+    color:greenyellow;
+    text-decoration:none;}
+a:visited{color:hotpink}
+a:hover{color:lightsalmon}
+
+
+
+h1{
+    color:rgb(255, 255, 255);
+    font-weight: 3000;
+    font-size:60px;
+    text-align: center;
+    line-height: 10px; 
+    margin-bottom: 100px;
+}
+
+h3{
+    color:white;
+    font-weight: 3000;
+    font-size:40px;
+    text-align: center;
+    line-height: 10px;
+    margin-top: 100px;
+    
+}
+
+h4{
+    color:rgb(255, 255, 255);
+    font-weight: 3000;
+    font-size:40px;
+    text-align: center;
+    line-height: 10px;
+    
+}

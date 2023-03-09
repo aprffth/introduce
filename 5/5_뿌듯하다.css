@@ -1,0 +1,40 @@
+body{
+  background:black}
+
+a:link{
+  color:white;
+  text-decoration:none;}
+a:visited{color:rgba(255, 255, 255, 0.164)}
+a:hover{color:lightskyblue}
+
+
+
+h1{
+  color:rgba(255, 255, 255, 0.164);
+  font-weight: 3000;
+  font-size:20px;
+  text-align: center;
+  line-height: 40px; 
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+h2{
+  color:white;
+  font-weight: 3000;
+  font-size:20px;
+  text-align: center;
+  line-height: 40px; 
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+h3{
+  color:darkgray;
+  font-weight: 3000;
+  font-size:20px;
+  text-align: center;
+  line-height: 40px; 
+  margin-bottom: 50px;
+  
+}

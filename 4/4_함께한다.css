@@ -1,0 +1,93 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+  }
+
+  .my_img {
+      display:none;
+      position:relative;
+  }
+
+  .my_box:hover .my_img{
+      display: block;
+
+  }
+
+  .img{
+      width:50%
+  }
+
+  #container {
+      width: 1200px;
+      margin: 50px;
+  }
+
+  #왼쪽 {
+      float:left;
+      margin-left: 80px;
+      margin-right: 20px;
+      width: 600px;
+    
+  }
+
+  #오른쪽 {
+      float: left;
+      width:400px;
+
+  }
+
+  @font-face {
+    font-family: '건축조각체';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2303@1.0/ARCHISCULPTURE_v200.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: '레페리';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/LeferiPoint-WhiteObliqueA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+img{width: 300px;}
+
+
+body{
+    background:lawngreen}
+
+a:link{
+    color:black;
+    text-decoration:none;}
+a:visited{color:hotpink}
+a:hover{color:hotpink}
+
+
+h1{
+    color:rgb(255, 255, 255);
+    font-weight: 3000;
+    font-size:180px;
+    text-align: left;
+    line-height: 180px; 
+    margin-left: -70px;
+}
+
+h2{
+    color:white;
+    font-weight: 3000;
+    font-size:40px;
+    text-align: left;
+    line-height: 50px;
+    
+}
+
+h3{
+    color:rgb(255, 255, 255);
+    font-weight: 3000;
+    font-size:28px;
+    text-align: left;
+    line-height: 40px;
+
+    
+}
